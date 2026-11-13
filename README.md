@@ -18,6 +18,7 @@ sebuah aplikasi bahasa C untuk membantu pengelola kantin kampus memantau stok, m
 ### 8 Laporan Penjualan
 ### 9 Cek Stok Menipis
 ### 10 Keluar
+
 # Array
 char nama[MAKS_PRODUK][PANJANG_NAMA];  // array karakter 2 dimensi: nama produk
 int  harga[MAKS_PRODUK];               // array 1 dimensi: harga satuan
