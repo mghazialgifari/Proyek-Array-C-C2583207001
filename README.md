@@ -36,21 +36,15 @@ Setelah proses kompilasi berhasil, klik tombol Run pada toolbar atau tekan Ctrl 
 
 ##Tambah Produk
 ![Tambah Produk](TambahProduk.png)
-
 ##Transaksi
 ![Transaksi](Transaksi.png)
-
 ##Pembaruan Stok
 ![Pembaruan Stok](PembaruanStok.png)
-
 ##Stok Tidak Cukup
 ![Stok Tidak Cukup](StokTidakCukup.png)
-
 ##Laporan
 ![Laporan](Laporan.png)
-
 ##Pengurutan
 ![Pengurutan](Pengurutan.png)
-
 ##Pencarian dan Stok
 ![Pencarian dan Stok](PencariandanStok.png)
