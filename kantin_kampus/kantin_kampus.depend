@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1794559478 source:/home/agi/Coding/Bahas C/kantin_kampus/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<limits.h>
+
