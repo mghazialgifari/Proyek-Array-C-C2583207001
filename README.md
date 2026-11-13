@@ -4,7 +4,7 @@
 ### Kelas  : PTI3B
 ### Mata Kuliah : Algoritma dan Pemrograman Lanjut
 
-# Nama Proyek Kantin Kampus
+# Nama Proyek : Kantin Kampus
 # Deskripsi
 sebuah aplikasi bahasa C untuk membantu pengelola kantin kampus memantau stok, memproses transaksi penjualan, dan melihat laporan penjualan. Aplikasi menggantikan pencatatan manual
 # Daftar Fitur
