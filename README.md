@@ -34,23 +34,23 @@ Buka file main.c menggunakan aplikasi Code::Blocks. Setelah itu, klik menu Build
 ### 2 Menjalankan Program
 Setelah proses kompilasi berhasil, klik tombol Run pada toolbar atau tekan Ctrl + F10. Program akan berjalan dan menampilkan menu utama Monitoring Stok dan Penjualan Kantin Kampus. Selanjutnya, program siap digunakan sesuai pilihan menu yang tersedia.
 
-##Hasil Program
+##Tambah Produk
 ![Tambah Produk](TambahProduk.png)
 
-##Hasil Program
+##Transaksi
 ![Transaksi](Transaksi.png)
 
-##Hasil Program
+##Pembaruan Stok
 ![Pembaruan Stok](PembaruanStok.png)
 
-##Hasil Program
+##Stok Tidak Cukup
 ![Stok Tidak Cukup](StokTidakCukup.png)
 
-##Hasil Program
+##Laporan
 ![Laporan](Laporan.png)
 
-##Hasil Program
+##Pengurutan
 ![Pengurutan](Pengurutan.png)
 
-##Hasil Program
+##Pencarian dan Stok
 ![Pencarian dan Stok](PencariandanStok.png)
